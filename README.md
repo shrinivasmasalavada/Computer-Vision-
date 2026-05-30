@@ -302,3 +302,350 @@ Projects:
 | 13–18  | Advanced Computer Vision Systems |
 
 Since you already work with Raspberry Pi 5, ESP32, SX1262 LoRa, and MLX90640 thermal cameras, a practical next project is **AI Thermal Surveillance System** combining OpenCV, YOLO, thermal sensing, and LoRa alerts. This showcases both Computer Vision and Embedded AI skills in one portfolio project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # Strong Computer Vision Projects (Resume & Job-Oriented)
+
+![Image](https://images.openai.com/static-rsc-4/rwnzDu0yW0OC6FDq7jf-Uj1g2L2b064P7_AHbmvjNM75g0tAIIq6LFIz1gwLkT164O4Q6i-htB1-vM9HGhRnzipoviXgGYWnTpT3PyzpWC9B3JVajoj4bGhQqnsgBJICNNAT4eUhjDMTU0UL719--05JHM72rPJduaN2jsqnci2hPYneYci0twXFxC13U14J?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jov4BxOGN-mwIj1GzpmmxeEgv5CycCkV0Rf4wDRcNyx9nXr0nk832nkSLwzLFB90eCPGpSWHfIhOCVD2FifZ3S5mL3RjtJgDBD7PoPwuGuWtTxnZBGmL924NkSCAhHXAEndlSMJ4rW_sbgdkYOxrWGv9QgbKcUCtwJMCntHU-1LMjnhrg6-AfCbj6MGfazdv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2s113uI5lfMKmEVzv721-VqhrAT8ZPA251mrgyRCAZyEndy84jHOh6aVDp90SNb4keCrERsrxXPmzPhwvuv1rRf_MuUKEnhQ_J40u0YsDzW6NdmTsPb-AAd_8T73i7ZlpBcp91GlQER-ofxV2oUyNruv7RuU8hWoFsBOmUH9s2SQdYeHupqd6cTwqcS71MQq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1gaJsds8T3eoHVfKR40MAPUfPs87qe4zUgmNij0clz82FMurFM-lqbRfNsE2jgdGiUdH5R0SDxesa76JQK4AUE69Ba4aWS1twW0aM0u3tltJdUXB2SGOy6TTc_3pGehR9kwoIed0CxPRnjjZ6b5M8o5dhf1yCsiQi8DVbNwo5SnGnpIrun25OhaCGnVtK_PY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gvnKUFqJFjEHHJL1P0V2qn2xBeY-1XSoW1Fe1H5TRWFc8-ffNwHk-PlYkCMhtDO1jmoKMH0txKQeYTRmMycfcbYXFDCXu7dSAaQet2Eu0w9nwSqCmHXmc34ThX_CXOkpx3h1SvonZLpVa3LcPkAYD9J_i6Aco_xNAaiUn1GwGR6ZLbzDbzAqTTMpoUWWV7bb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Scn8Lv9LvIqEEBkuB4jMHj_85fKUYe9dPf7e8AI-Thc4Q27i7kBxhyYvGkRt02g_xdehC7nH255U6e4ILCcy272JMx6UURPmYMbDzBFyalajyo0GNQOTODxQXC0cT9Gk2J46JKjcjs8K-6gBZKE5Zt5TVDRPdISLiYHj_gRakwC0FbVQC1ApAyQtLQyEsekd?purpose=fullsize)
+
+## Beginner Projects
+
+### 1. Face Detection System
+
+**Skills:** OpenCV, Haar Cascades
+
+Features:
+
+* Detect faces from webcam
+* Draw bounding boxes
+* Save detected images
+
+---
+
+### 2. Motion Detection Camera
+
+**Skills:** OpenCV
+
+Features:
+
+* Detect movement
+* Capture screenshots
+* Send alerts
+
+---
+
+### 3. Smart Attendance System
+
+**Skills:** Face Recognition, OpenCV
+
+Features:
+
+* Face identification
+* Attendance logging
+* CSV/Database storage
+
+---
+
+## Intermediate Projects
+
+### 4. Vehicle Detection & Counting
+
+**Skills:** OpenCV, YOLO
+
+Features:
+
+* Detect cars, buses, trucks
+* Count vehicles
+* Traffic statistics
+
+---
+
+### 5. Number Plate Recognition (ANPR)
+
+**Skills:** OpenCV, OCR
+
+Features:
+
+* Detect license plates
+* Extract text
+* Store records
+
+---
+
+### 6. PPE Safety Detection
+
+**Skills:** YOLO
+
+Features:
+
+* Helmet detection
+* Safety vest detection
+* Industrial safety monitoring
+
+---
+
+## Advanced Projects
+
+### 7. AI CCTV Surveillance System
+
+![Image](https://images.openai.com/static-rsc-4/jnvX-ax4tQvs5OysiHIWmsuc0sDt4g0KLAK95Ss99Et5bmEiLkzHaxBNCLBfV9fKJEeL-3klGux94HYFmKTIrWAkkFP7AwUgvf6wXgvtrZoGcV3fgWc1bmKiusVgiz6IJT679FalwKt-6-UimR4Lcae-ia1CgWsyFxTSZMyUyOSA45GKBR7tlCe4R6QJqPTe?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mYA0naHOI4RRjpE75Z0MwTTHuW0xGGcNVh-CXrFR-BOb2CkT4o2vIfQUazzqlLzarfgVen8bdpee6uqj7xDnkRWPIjjPpGZYDAvAS5toGAF9bWzlCuyqX8T_HycT9kG7XqjG0RBBPTh8lm2QDF6ei10e7OrKIy6rADhOZHDoA7hBaxJgfJqP8FXqO1_eINuo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Fad5l9vPoHfYPC0PVMZ6hV77bKByRnoOwuW3-q-NP6LGDRwn-KDsEt_ntMTYZEX1brMdj5lfC2UvQu_apnElE3XTV2vPAwsQYfY2NLRl43MGAfkwF5CXBrOY_NDgmgY59fhjcoLQH-bT6KeymQWYK1OmIHcdKWMfmX68sfHltK_Sz0MdJseOZN70tit7rjMw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Dd1OEXOWnSdAdo1KnJp1XfAv8WZK90wzQOPh11m9CGypVl9hFJZCOVYvQT11FEVib7Up9U2kYZPQqMwxwqqDjSIySjsSQXW9jmbxbE8L-grPBxEuy1b_2BPwXCN37T6kVmtvORc2lq4RkC4hETZOqtMT6ZLlEE3tICo-crzNKMMqIg10ka4ZKP6WPLNyAfd2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gjdjE-Rq4l6cOx6D-QVfdgT7y5VvrKTKlG3RRegQunjXTb4Zgrq2080ZjZcodjUafNcONn885uUqzaN6ALm5UXcRyU3cCu27YxzrfcSydeu1K1haVgY2FoN3a4_a8Ks7zwquHVrLi5uN5qAj6zu4b0F5fTHzl1bbjS_MbR8R8werGhNYOngy2u2CvvI6BdIo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/d0O7bGvhAUoYUCvMnPbyukG8ZNiV9M_XbEP_q0t5Kq7EPSA9QQf9e_mTFrqDzX-gdtgchllpK6CbLNjQk4lpV4uZ9U1gAseXZ3dQaA3qsKQPDAUl-wt0WJjvHMrdGPUm7TCvA0Y2ULAMvkapWQPMrNaszlpbaTn-JbgK_HCKAEEIFtpRhOunl2IlcA_7bAX2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_vQNZCeJ-0-op9UrOEpe2TzYZfXpWbSexduiWiRI5c6bR1ZDrVLoi33qiBliXId4KTmFrpXtF8T0by1KfiKfNLjHywtUK1Uy7KHgKakq7PYCvHyVlWTFwh-yHsk3NgBrBdFw5lU1CHLdXrV-Jdlm1MpABWcJ8BrEXPjvPzkzQ0MisBDbqvS347iEfip9TSPQ?purpose=fullsize)
+
+**Tech Stack**
+
+* Raspberry Pi 5
+* OpenCV
+* YOLO
+* Python
+
+Features:
+
+* Person Detection
+* Vehicle Detection
+* Intrusion Alerts
+* Object Tracking
+* Recording
+
+---
+
+### 8. Thermal Human Detection System
+
+![Image](https://images.openai.com/static-rsc-4/l7wUofk7D-dqJgJ8D1ej6ClDydmej9hPCep86Z-azhinxtZiVQlBAYmD5ur6RSY8j4MO6MYaeqwylrtEfN1B7OjUSWZiN_4u2rj381pXBElwTSPK1nZI0fbx6ZnENxDx3JD9Mw8G56vCjdygw44yB98gvPYeTcDfhaMiPLixPMW0Pr7n97RNkrrdQMB5c_2A?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/q6XQ7iop61p3aDmcX_7lR2jj0LB8TQpWX8k7p1dp5GmdoGw7_SXuYp3i03Y3yU5NR-8ppgv5H6BMROuJouhQmjpUsBDTsP3Eq7FBxv8FJUadxjMturV-8B62FKsnBBZAib_2kJtikUc0vCjgCqFmqXADckSRAqfay2kr78TfZ1tiX0oGS21K2E4IrQpdpTB8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1gaJsds8T3eoHVfKR40MAPUfPs87qe4zUgmNij0clz82FMurFM-lqbRfNsE2jgdGiUdH5R0SDxesa76JQK4AUE69Ba4aWS1twW0aM0u3tltJdUXB2SGOy6TTc_3pGehR9kwoIed0CxPRnjjZ6b5M8o5dhf1yCsiQi8DVbNwo5SnGnpIrun25OhaCGnVtK_PY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BUdnUzqYXgZqbotwMSlgFBPEyHdxSqsZKkCl6_5t1uw7vdvFci7oV8NxVRsOjRccpkY9_BEAmsT26I7h_8A3VqElszo9_36tQx4i1LxBj3Xp9C-VNQYL0kEgSZBBCnVhvu0tcrtUoGOVeN4HRxOcuH9qsJvcGAeWPFd0bIJHjSSM_NfMQmpCtTHLhlgSV8it?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EGHPInIAn1vgUaYeW4PmsWZfa6FWAZkTfvxp-k_Z-UThXjEYBk-stLMjnRDxgZzYGZ2GxeMsSSuoZXYBE-2jqVxwUMAhnjnZw7b_s7xbXc1OqxaPPezk5eIyyoXCs0o3LeTPs0pE3wOMQoWat-0f2yh_cDVw0vxzjdx_KnxSbb15FDoR9doW-FSOpSbIeX54?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/JVpqwj-vAlLalTuSJK47rCuRqvYGav-o609e6tXo1b4bGAtGCs9Xr2DeJfC0MoOyAFCF-gj5q_Fyxi8ojo3pxLkqdURRiBRcQQOSWF6ayyCFOQiKuyxnRr3d5cr6DQoyBg0K_fqo_UkdiQHOy2LWwMSzfKRHap7-gCRXgG3PVF9LWaHBFre-EQ4pz6csXJR4?purpose=fullsize)
+
+**Tech Stack**
+
+* Raspberry Pi 5
+* MLX90640
+* OpenCV
+
+Features:
+
+* Human Detection in Darkness
+* Thermal Monitoring
+* Intrusion Alerts
+
+This project matches the hardware you already own.
+
+---
+
+### 9. Smart Traffic Monitoring System
+
+Features:
+
+* Vehicle Counting
+* Traffic Density Analysis
+* Speed Estimation
+* Violation Detection
+
+Skills:
+
+* YOLO
+* OpenCV
+* DeepSORT
+
+---
+
+### 10. Industrial Defect Detection
+
+Features:
+
+* Surface Crack Detection
+* Product Inspection
+* Quality Control
+
+Applications:
+
+* Manufacturing
+* Automotive
+* Electronics
+
+---
+
+### 11. Drone-Based Object Detection
+
+Features:
+
+* Aerial Monitoring
+* Vehicle Detection
+* Crowd Monitoring
+
+Skills:
+
+* YOLO
+* OpenCV
+* Edge AI
+
+---
+
+### 12. Wildlife Monitoring System
+
+Features:
+
+* Animal Detection
+* Species Classification
+* Night Monitoring
+
+Hardware:
+
+* Raspberry Pi
+* Camera
+* LoRa
+
+---
+
+## Expert-Level Projects
+
+### 13. Multi-Camera AI Surveillance
+
+Features:
+
+* Multiple Camera Feeds
+* Cross-Camera Tracking
+* Central Dashboard
+* Real-Time Alerts
+
+---
+
+### 14. Edge AI Security Robot
+
+![Image](https://images.openai.com/static-rsc-4/qKSoh-G2iTZfjeDti1rKqLVPyD1OqRxEPt2Ffv5nJ2mmgjnrir59umjrfRZR25HMs-c_oQ3i2U6NJVnFs2ZqduINoEJOhRxAj-a-L0_vxqMZGkntpw6HeOjnF4rjf28N8Y1Nd4BFKwoBHJprDYaLYjbys7t6zkzjFnchMVYVhv4j1mJFgQtMknj515Yx5VJg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/udD-PT3iyNoQ1EMKlhdLAf1HxGp6sRpygdho33kXOYWNMAsf6Ew8j3-12TZWeb0SOo9BJiYWTqDY3Rm37B24Go0kYb1PZlOpnHZ2HNJzkTdfb_uArRnR5DmhAvQmmwqVMeXA5vKo4IFgmFX52zVSb5aZG_QWHiQB5NSMWGdrmojVsYgwdJAnUA3PFfVb1WGp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Sich2izh6hSG_hZqTW3hHQLviPKsoWvvOToORVcks3v-tgC5-kUKm87fA3mnEYM0wVECgEC0XVgoCveEnAzBEmRgR5zSV9o1ZFeyCEWfeB46Os3FnJEn2v-p16kTZwb1UCuYhE4n9nfsQwWQgg0hjp8XIXChD4K754LiKN5u-lvF88MgXUPk7XGaKvrYmgPR?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lNzkMk4FoVIJbv6KEPGEXCtRoeHkDHG3Si0e4jrXeJOmLk2U4a90REB5Ar8GpSCHr6_Vzct21zLCdt7n1QeE8V57tnT9xg82PkzQKDuizhbY7Irnl4PjAsr-uLxOXq1fR6rRRIMUjKL9SUZXf_y5C3Q6hjp3Z-_ovZ4FmulhNfyo7s8d-XCid_Czcbkrumvv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WRGztGr75eMrJA5_n0DB_a3eMpdW2tRq3fQeEy1KvxCFzDCbZ7v3gzay54r07Q_FDXiLqt6ag_E37jo2f1UjGl0g5ZJffxYs1IyhTMjx5syeQd1fu1gubAkO4fP2k7pHZy6dddjdtxPs9nqBEooJb1zUtp5fX77HsLgOat3kd_5L9l1PI17i3_NdgWUqaQ2k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4xblTRhnqcFHp8js0FJ9ig-Dsq8XhkFVc5GVdYGSUnd7UMgBM0R3t_uc8dGF8LCzWBU9beg8gxNIEPFyU-eoYNH-6m-tFmoRSMejy2lPVk2gZFGJS8ZLCSuaQ7hBNMQxB6QN6si5z3gWX-uUZF5PomL30-8-GTaYja5cGqbKMDCNWLI-q7doC3mBKKT4nlRC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/J6UvQKeJq_F3TAvZv-C-P63o9l3881d6gxPkxhyqpqiX1sYV-WnKci2d-TVQacZh2PbtzKqv3ppsXS0hnUPrPzedxIaGC8cX6r5FMFnzpFLCpsh0pp5fB2gL1AVhJMvxHlK0FtAvu9hwzjxnCciJ7EGy5quiyCxDl7vfBPdloHsXsL3Ab6kACTAJJXqFYghX?purpose=fullsize)
+
+Hardware:
+
+* Raspberry Pi 5
+* Camera
+* Sensors
+
+Features:
+
+* Patrol Mode
+* Person Detection
+* Object Avoidance
+* Alert System
+
+---
+
+### 15. LoRa + AI Surveillance Network
+
+Features:
+
+* Long-Range Communication
+* AI Detection
+* Remote Alerts
+
+Hardware:
+
+* Raspberry Pi 5
+* SX1262 LoRa
+* ESP32
+
+This is another project that fits your current hardware.
+
+---
+
+### 16. AI Railway Track Monitoring
+
+Features:
+
+* Track Crack Detection
+* Obstacle Detection
+* Safety Alerts
+
+Applications:
+
+* Railways
+* Smart Transportation
+
+---
+
+### 17. Real-Time Crowd Analytics
+
+Features:
+
+* Crowd Counting
+* Density Estimation
+* Heat Maps
+* Event Monitoring
+
+---
+
+### 18. Vision-Language AI Assistant
+
+Features:
+
+* Analyze camera images
+* Describe scenes
+* Answer questions about what the camera sees
+
+Skills:
+
+* Computer Vision
+* Generative AI
+* Vision Models
+
+---
+
+# Top 5 Projects for a Computer Vision Resume
+
+1. AI CCTV Surveillance System
+2. Thermal Human Detection System
+3. Industrial Defect Detection
+4. Smart Traffic Monitoring
+5. Multi-Camera AI Surveillance
+
+These projects demonstrate OpenCV, YOLO, Deep Learning, Edge AI, and real-time analytics—skills that are highly valued for Computer Vision Engineer roles. Since you already have Raspberry Pi 5, MLX90640, SX1262 LoRa, and ESP32 hardware, the **Thermal Human Detection System** and **LoRa + AI Surveillance Network** are especially practical and impressive portfolio projects.
