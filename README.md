@@ -2,7 +2,6 @@
 Embedded Systems + Computer Vision + Edge AI + Linux + C++
 # Computer Vision Engineer Roadmap (2026)
 
-![Image](https://images.openai.com/static-rsc-4/QNNJa4lKJM_YeJqOPbKMC8uHrTF0pLHIrZBDrSCU6ccg0uFp53KgeYWM6FrqOlhUho6ZFj9-FukPG7LMtzKAIDtTD-wjmADuoprRc_4ZDloHleluN9hYC_dUVHQ0T1_rksvtGdkrR3SLCztXWASdmkbL48FKRhxFyVeC545uaxgVwrPPP9xbnpuRDTXAzFiT?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/HO9FizD5kTLg-GwUvKSrBUZ5Q7cyWpT9HZlVTR2Fz7fb151NQuSsPgsDyRoud4vjnXIhIMmtlhCVgVAaZqZaIhctKqngIozZAdqQME6Cdin2X9ljVf39MO4MhuwVae30p5pt2OkrFw6lS9kL5BhSF9syoYScg45Cst3JwfAaAvNBf5CdWFRBkxRK0imqPkK8?purpose=fullsize)
 
@@ -10,9 +9,7 @@ Embedded Systems + Computer Vision + Edge AI + Linux + C++
 
 ![Image](https://images.openai.com/static-rsc-4/LKBwQRJ8IfKgGeDC6rAR6uc1BaHRG65sSEa-S-PZjPc2_Cf3C5zNj4WURxD6dItt8mTlqBVkoTpG4xI7ND6VhzQhOx18xwx8dE2Aq5N9WG9DWaLHuqIxBkZD_Q-erKu1ZXyu_pNXFi6vazNm1AP3YIQlTa8-c_wTfEAsUArgmVz58NxUDrrxkF8nTspQ9mUn?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/yRQWts9V1K0AQV4JIy3UHEm5ckhHocqKt_liMBXhYkyMDfQEHCV9lUQiD3ZDlWkTtIzwebL6lnYWBD13KkYDAKP6ZDIsJfeaglU_A10gXQjGFv4yJJpobF_-o4ZiTiOyCT1xB80y-mFQ98d-wHOx1mLhVKAT66SmG3cESFhvewUGaUusmNLeYCzMtCtQtP32?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/SGgPbCOkNslTokVXfMi7FBS8f4J_LyAkNQTtju_sOkhJcPyon2EjGCEFXn5YSTieq45iuk5YwVmMjhf0RgKEgqWzUC3eMf6ZXW3cqx1J0XgHQXxtmqT5vEY1UygmIX8UX3XI5WU61EMY4WAFxBY5_1qJzJuvDsjW403O9y1MgOxHINV_u9QjrnKW9SUcBEFg?purpose=fullsize)
 
 ## What is Computer Vision?
 
