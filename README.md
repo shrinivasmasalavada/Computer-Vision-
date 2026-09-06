@@ -3,6 +3,7 @@ Embedded Systems + Computer Vision + Edge AI + Linux + C++
 # Computer Vision Engineer Roadmap (2026)
 
 
+
 ![Image](https://images.openai.com/static-rsc-4/HO9FizD5kTLg-GwUvKSrBUZ5Q7cyWpT9HZlVTR2Fz7fb151NQuSsPgsDyRoud4vjnXIhIMmtlhCVgVAaZqZaIhctKqngIozZAdqQME6Cdin2X9ljVf39MO4MhuwVae30p5pt2OkrFw6lS9kL5BhSF9syoYScg45Cst3JwfAaAvNBf5CdWFRBkxRK0imqPkK8?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/Qh39JbwdjtVcTwieEMW0OPBXAaNmEkeum32JfjHnNFcFIdO2XvszqoZ3DN-cAv8CYmL8ZKRz9-6pCG3dP2h1aMBINTzUKmnTKpkhMvOvSzVqUqlJpbpH-psLLSuSReLHDll41wjCLFSG8bSYB6ffFpaG4GRdiX9xvsorAxozVnCIQXKaa4YIycutwijvYqmN?purpose=fullsize)
